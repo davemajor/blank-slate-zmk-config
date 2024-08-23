@@ -9,6 +9,8 @@
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/outputs.h>
 
+#include "homerow.h"
+
 //#define QWERTY_BASE 1
 
 #define TBLE_ORTHO   1
